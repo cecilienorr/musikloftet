@@ -3,7 +3,11 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: "#738290",
+        primary: "#edede8",
+      },
+
+      fontFamily: {
+        assistant: "'Assistant', sans-serif;",
       },
     },
   },
