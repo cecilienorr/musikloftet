@@ -8,6 +8,8 @@ module.exports = {
 
       colors: {
         primary: "#edede8",
+        button: "#73a942",
+        text: "#3a506b",
       },
     },
   },
