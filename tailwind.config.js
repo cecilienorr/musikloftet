@@ -2,12 +2,12 @@ module.exports = {
   content: ["./src/**/*.{html,js,ts,jsx,tsx}"],
   theme: {
     extend: {
-      colors: {
-        primary: "#edede8",
+      fontFamily: {
+        assistant: "'Assistant', system-ui ,sans-serif;",
       },
 
-      fontFamily: {
-        assistant: "'Assistant', sans-serif;",
+      colors: {
+        primary: "#edede8",
       },
     },
   },
