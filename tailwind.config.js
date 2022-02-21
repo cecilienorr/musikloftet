@@ -5,3 +5,7 @@ module.exports = {
   },
   plugins: [require("@tailwindcss/typography"), require("@tailwindcss/forms")],
 };
+module.exports = {
+  //...
+  plugins: [require("daisyui")],
+};
